@@ -249,7 +249,7 @@
             "type": "ConfigChange"
           }
         ],
-        "replicas": 2,
+        "replicas": 1,
         "selector": {
           "name": "${DATABASE_SERVICE_NAME}"
         },
